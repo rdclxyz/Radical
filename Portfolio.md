@@ -9,4 +9,5 @@
 
 |Notes|
 |---|
-|-|
+|Stake 100 ETH and equivalent AMPL in "ETH/AMPL" Uniswap Pool|
+|Stake "ETH/AMPL" Uniswap Pool tokens in Ampleforth Geyser/Beehive|
