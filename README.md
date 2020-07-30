@@ -52,7 +52,7 @@ NAVPS = Assets Under Management / Total Outstanding Units
 ```
 
 
-## 6.2. Deposits
+## Deposits
 
 - Deposits are made in the form of a *stablecoin* (currently, only `USDT` and `USDC` are supported).
 - Deposits can only be made to the following address:
@@ -62,12 +62,12 @@ NAVPS = Assets Under Management / Total Outstanding Units
 
 *Note: cross-check the address multiple times before making a deposit, as sending it to a wrong address will result in a permanent loss of funds.*
 
-- Only use an ERC20 compliant wallet to transfer funds. 
+- Only use an ERC20 compliant wallet to transfer funds.
 - There is no prescribed *minimum investment*.
 - Deposits can either be made in batches or as a whole.
 - Fund units to be minted and issued are ascertained on the last day of the phase, using NAVPS.
 
-## 6.3. Withdrawals
+## Withdrawals
 
 - Redemptions can only be made by transferring fund units to the following address:
 ```
@@ -81,7 +81,7 @@ NAVPS = Assets Under Management / Total Outstanding Units
 - Capital to be withdrawn are ascertained on the last day of the phase, using NAVPS.
 - Redeemers in a phase will receive their capital within the first 5 days of the next phase.
 
-## 6.5. Custodial Functions (Beginning 1st-5th of every month)
+## Custodial Functions (Beginning 1st-5th of every month)
 
 - Ascertain Capital Appreciation
   - Ascertain AUM before fees.
