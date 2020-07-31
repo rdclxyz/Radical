@@ -41,6 +41,25 @@ Deposits: Perpetual.
 Withdrawals: Perpetual.
 ```
 
+## Addresses
+
+Fund (Primary): `0x21B70Ef84e18B03D5e289cc0db416AAE1DdFB22B`
+
+Fund (Secondary): `0x002885a1dD0Bd4dDd7b9D4d47811A28a689f7258`
+
+Deposit: `0xFCFB33c0F77F4413af501dF32f4AE1dFd923069A`
+
+Withdraw: `0xFCFB33c0F77F4413af501dF32f4AE1dFd923069A`
+
+Fee: `0xA839d9115011B572BC34AC8be648f6C2A51104A3`
+
+Custodian/s: `0x056E9027aff448b6E1D373c39EA73FD8b833f6C4`
+
+Organisation: `0xe17b95eBbF5F06E215EF275A91ed0A11D159b293` *OR* `radical.aragonid.eth`
+
+Organisation Agent: `0x6167ca14874a3ff32d6c0a91e633977aa0e6b322`
+
+
 # NAV
 
 Capital moves in and out of Radical as deposits and redemptions. Each investor gets a specified number of units or shares in proportion to their invested amount, and they are free to sell (redeem the value of) their fund units at a later date and collect the principle with a profit/loss, if any. Since constant buying and selling (investment and redemption) of fund units occur, a mechanism is required to price the units of the fund. This pricing mechanism is based on NAV; ergo, when Radical's NAVPS updates, so does its redeemable value.
@@ -50,7 +69,6 @@ The Net Asset Value (NAV) of the fund represents the book value of the fund at a
 ```
 NAVPS = Assets Under Management / Total Outstanding Units
 ```
-
 
 ## Deposits
 
@@ -83,6 +101,7 @@ NAVPS = Assets Under Management / Total Outstanding Units
 
 ## Custodial Functions (Beginning 1st-5th of every month)
 
+- Ascertain and Update Portfolio.md
 - Ascertain Capital Appreciation
   - Ascertain AUM before fees.
   - Ascertain AUM of the previous phase.
