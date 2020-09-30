@@ -1,25 +1,25 @@
-# Phase 2 (August 2020)
+# Phase 3 (September 2020)
 
 | Particulars                                | Note | Value       |
 |--------------------------------------------|:------:|-------------:|
 | All values in $ USD                        |      |             |
-| Assets Under Management (before fees)      | 1    | 7,26,354.28 |
-| Assets Under Management (at the beginning) | 2    | 310369.18 |
-| Deposits                                   | 3    | 12997.00       |
-| Withdrawals                                | 4    |             |
-| Capital Appreciation                       | 5    | 4,02,988.09 |
-| Fees for the Phase                         | 6    | 81759.78 |
-|           Management Fees                  | 6a   | 1162.16 |
-|           Performance Fees                 | 6b   | 80597.61 |
-| -                                          | -    | -           |
-| Assets Under Management                    | 7    | 6,44,594.49 |
-| Circulating Units                          | 8    | 72,447.00      |
-| NAVPS                                      | 9    | 8.89 |
-| -                                          | -    | -           |
-| Net Capital Appreciation                   | 10   | 3,21,228.31 |
-| Net Capital Appreciation per Unit          | 11   | 4.43 |
+| Assets Under Management (before fees)      | 1    | 512,404.54  |
+| Assets Under Management (at the beginning) | 2    | 644,594.49  |
+| Deposits                                   | 3    | 70485.00        |
+| Withdrawals                                | 4    |              |
+| Capital Appreciation                       | 5    | -202,674.95 |
+| Fees for the Phase                         | 6    | 819.84   |
+|           Management Fees                  | 6a   | 819.84   |
+|           Performance Fees                 | 6b   | 0            |
+| -                                          | -    | -            |
+| Assets Under Management                    | 7    | 511,584.69  |
+| Circulating Units                          | 8    | 80,376       |
+| NAVPS                                      | 9    | 6.36  |
+| -                                          | -    | -            |
+| Net Capital Appreciation                   | 10   | -203,494.80 |
+| Net Capital Appreciation per Unit          | 11   | -2.53 |
 
-*Note: All values are as of 31/08/2020.*
+*Note: All values are as of 30/09/2020.*
 
 ## Notes to Accounts
 
