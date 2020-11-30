@@ -1,25 +1,30 @@
-# Phase 4 (October 2020)
+# Phase 5 (November 2020)
 
 | Particulars                                | Note | Value       |
 |--------------------------------------------|:------:|-------------:|
-| All values in $ USD                        |      |              |
-| Assets Under Management (before fees)      | 1    | 453,369.98    |
-| Assets Under Management (at the beginning) | 2    | 512,404.54  |
-| Deposits                                   | 3    | 0            |
-| Withdrawals                                | 4    | 0            |
-| Capital Appreciation                       | 5    | -59,034.56   |
-| Fees for the Phase                         | 6    | 725.39   |
-|           Management Fees                  | 6a   | 725.39   |
-|           Performance Fees                 | 6b   | 0            |
-| -                                          | -    | -            |
-| Assets Under Management                    | 7    | 452,644.59  |
-| Circulating Units                          | 8    | 80,376       |
-| NAVPS                                      | 9    | 5.63  |
-| -                                          | -    | -            |
-| Net Capital Appreciation                   | 10   | -59,759.95   |
-| Net Capital Appreciation per Unit          | 11   | -0.74 |
+| All values in $ USD                        |      |             |
+| Assets Under Management (before fees)      | 1    | 679,630.48   |
+| Assets Under Management (at the beginning) | 2    | 453,369.98 |
+| Deposits                                   | 3    | 15000       |
+| Withdrawals                                | 4    | 0           |
+| Capital Appreciation                       | 5    | 211,260.50 |
+| Fees for the Phase                         | 6    | 1087.40 |
+|           Management Fees                  | 6a   | 1087.40 |
+|           Performance Fees                 | 6b   | 0           |
+| -                                          | -    | -           |
+| Assets Under Management                    | 7    | 678,543.07 |
+| Circulating Units                          | 8    | 82,734      |
+| NAVPS                                      | 9    | 8.20 |
+| High Water Mark (NAVPS)                    | 10   | 8.89        |
+| High Water Mark (AUM)                      | 11   | 735,505.26   |
+| Chargeable Capital Appreciation            | 12   | -           |
+| -                                          | -    | -           |
+| Net Capital Appreciation                   | 13   | 210,173.09 |
+| Net Capital Appreciation per Unit          | 14   | 2.54 |
 
-*Note: All values are as of 31/10/2020.*
+*Note: All values are as of 30/11/2020.*
+
+*Note: There was an accounting omission in the previous phase in relation to “Deposits”. In this regard, 15,000 USDT was omitted, which has been accounted for this phase. The same reflects above.*
 
 ## Notes to Accounts
 
@@ -53,7 +58,7 @@ Fees are chargeable on two components: AUM (before fees) and Capital Appreciatio
 
 a.	Management fees: Chargeable at `0.16%` per phase on Assets Under Management (before fees).
 
-b.	Performance fees: Chargeable at `20%` per phase on Capital Appreciation.
+b.	Performance fees: Chargeable at `20%` per phase on Chargeable Capital Appreciation.
 
 #### 7.	Assets Under Management
 
@@ -73,20 +78,42 @@ The total outstanding units of the fund consist of
 #### 9.	NAVPS
 
 NAVPS or Net Asset Value Per Share is arrived at by dividing Assets Under Management with Circulating Units.
-
+```
 NAV = (7) / (8)
 ```
-Note: For Phase 0 (June 2020) the fund was initiated with a NAVPS of $1 USD.
+
+*Note: For Phase 0 (June 2020) the fund was initiated with a NAVPS of $1 USD.*
+
+
+
+#### 10.	High Water Mark (NAVPS)
+
+High Water Mark (NAVPS) refers to the highest point the NAVPS has been accounted at over the history of the fund. This metric is used in the evaluation of performance fees.
+
+
+#### 11.	High Water Mark (AUM)
+
+High Water Mark (AUM) refers to the highest point the Assets Under Management has been accounted at over the history of the fund. This metric is used in the evaluation of performance fees.
+
+
+#### 12.	Chargeable Capital Appreciation
+
+Chargeable Capital Appreciation refers to the appreciation of capital over the previous month relative to the High Water Mark (AUM). This metric is used in the evaluation of performance fees.
 ```
-#### 10.	Net Capital Appreciation
+Chargeable Capital Appreciation = (1) – (11)
+```
+
+#### 13.	Net Capital Appreciation
 
 Net Capital Appreciation is arrived at by ascertaining the difference between Capital Appreciation and Fees for the Phase.
 ```
 Net Capital Appreciation = (5) – (6)
 ```
-#### 11.	Net Capital Appreciation per Unit
+
+
+#### 14.	Net Capital Appreciation per Unit
 
 Net Capital Appreciation per Unit is arrived at by dividing Net Capital Appreciation by Circulating Units.
 ```
-Net Capital Appreciation per Unit = (10) / (8)
+Net Capital Appreciation per Unit = (13) / (8)
 ```
