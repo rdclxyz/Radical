@@ -1,30 +1,28 @@
-# Phase 5 (November 2020)
+# Phase 6 (December 2020)
 
 | Particulars                                | Note | Value       |
 |--------------------------------------------|:------:|-------------:|
 | All values in $ USD                        |      |             |
-| Assets Under Management (before fees)      | 1    | 679,630.48   |
-| Assets Under Management (at the beginning) | 2    | 453,369.98 |
-| Deposits                                   | 3    | 15000       |
+| Assets Under Management (before fees)      | 1    | 802527.25   |
+| Assets Under Management (at the beginning) | 2    | 678543.07   |
+| Deposits                                   | 3    | 0           |
 | Withdrawals                                | 4    | 0           |
-| Capital Appreciation                       | 5    | 211,260.50 |
-| Fees for the Phase                         | 6    | 1087.40 |
-|           Management Fees                  | 6a   | 1087.40 |
-|           Performance Fees                 | 6b   | 0           |
+| Capital Appreciation                       | 5    | 1,23,984.18 |
+| Fees for the Phase                         | 6    | 14688.44  |
+|           Management Fees                  | 6a   | 1284.04   |
+|           Performance Fees                 | 6b   | 13404.39   |
 | -                                          | -    | -           |
-| Assets Under Management                    | 7    | 678,543.07 |
+| Assets Under Management                    | 7    | 7,87,838.81 |
 | Circulating Units                          | 8    | 82,734      |
-| NAVPS                                      | 9    | 8.20 |
+| NAVPS                                      | 9    | 9.52 |
 | High Water Mark (NAVPS)                    | 10   | 8.89        |
-| High Water Mark (AUM)                      | 11   | 735,505.26   |
-| Chargeable Capital Appreciation            | 12   | -           |
+| High Water Mark (AUM)                      | 11   | 735505.26   |
+| Chargeable Capital Appreciation            | 12   | 67021.99    |
 | -                                          | -    | -           |
-| Net Capital Appreciation                   | 13   | 210,173.09 |
-| Net Capital Appreciation per Unit          | 14   | 2.54 |
+| Net Capital Appreciation                   | 13   | 1,09,295.74 |
+| Net Capital Appreciation per Unit          | 14   | 1.32 |
 
-*Note: All values are as of 30/11/2020.*
-
-*Note: There was an accounting omission in the previous phase in relation to “Deposits”. In this regard, 15,000 USDT was omitted, which has been accounted for this phase. The same reflects above.*
+*Note: All values are as of 31/12/2020.*
 
 ## Notes to Accounts
 
