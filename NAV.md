@@ -1,28 +1,28 @@
-# Phase 6 (December 2020)
+# Phase 7 (January 2021)
 
 | Particulars                                | Note | Value       |
 |--------------------------------------------|:------:|-------------:|
 | All values in $ USD                        |      |             |
-| Assets Under Management (before fees)      | 1    | 802527.25   |
-| Assets Under Management (at the beginning) | 2    | 678543.07   |
-| Deposits                                   | 3    | 0           |
-| Withdrawals                                | 4    | 0           |
-| Capital Appreciation                       | 5    | 1,23,984.18 |
-| Fees for the Phase                         | 6    | 14688.44  |
-|           Management Fees                  | 6a   | 1284.04   |
-|           Performance Fees                 | 6b   | 13404.39   |
-| -                                          | -    | -           |
-| Assets Under Management                    | 7    | 7,87,838.81 |
-| Circulating Units                          | 8    | 82,734      |
-| NAVPS                                      | 9    | 9.52 |
-| High Water Mark (NAVPS)                    | 10   | 8.89        |
-| High Water Mark (AUM)                      | 11   | 735505.26   |
-| Chargeable Capital Appreciation            | 12   | 67021.99    |
-| -                                          | -    | -           |
-| Net Capital Appreciation                   | 13   | 1,09,295.74 |
-| Net Capital Appreciation per Unit          | 14   | 1.32 |
+| Assets Under Management (before fees)      | 1    | 1,423,900.25 |
+| Assets Under Management (at the beginning) | 2    | 787,838.81    |
+| Deposits                                   | 3    | 0            |
+| Withdrawals                                | 4    | 0            |
+| Capital Appreciation                       | 5    | 636,061.44  |
+| Fees for the Phase                         | 6    | 129,490.52  |
+|           Management Fees                  | 6a   | 2278.2404    |
+|           Performance Fees                 | 6b   | 127,212.28   |
+| -                                          | -    | -            |
+| Assets Under Management                    | 7    | 1,294,409.72 |
+| Circulating Units                          | 8    | 82,734       |
+| NAVPS                                      | 9    | 15.64  |
+| High Water Mark (NAVPS)                    | 10   | 9.52         |
+| High Water Mark (AUM)                      | 11   | 787,838.81    |
+| Chargeable Capital Appreciation            | 12   | 636,061.44    |
+| -                                          | -    | -            |
+| Net Capital Appreciation                   | 13   | 506,570.91  |
+| Net Capital Appreciation per Unit          | 14   | 6.12  |
 
-*Note: All values are as of 31/12/2020.*
+*Note: All values are as of 31/01/2021.*
 
 ## Notes to Accounts
 
