@@ -1,28 +1,28 @@
-# Phase 9 (March 2021)
+# Phase 10 (April 2021)
 
 | Particulars                                | Note | Value       |
 |--------------------------------------------|:------:|-------------:|
 | All values in $ USD                        |      |             |
-| Assets Under Management (before fees)      | 1    | 1,644,466.45   |
-| Assets Under Management (at the beginning) | 2    | 1,488,609.42   |
+| Assets Under Management (before fees)      | 1    | 2,115,088.93   |
+| Assets Under Management (at the beginning) | 2    | 1,610,663.90    |
 | Deposits                                   | 3    | 0            |
 | Withdrawals                                | 4    | 0            |
-| Capital Appreciation                       | 5    | 155,857.03  |
-| Fees for the Phase                         | 6    | 33,802.55  |
-|           Management Fees                  | 6a   | 2631.14   |
-|           Performance Fees                 | 6b   | 31,171.40    |
+| Capital Appreciation                       | 5    | 504,425.03  |
+| Fees for the Phase                         | 6    | 104,269.14  |
+|           Management Fees                  | 6a   | 3384.14  |
+|           Performance Fees                 | 6b   | 100,885.00   |
 | -                                          | -    | -            |
-| Assets Under Management                    | 7    | 1,610,663.90 |
+| Assets Under Management                    | 7    | 2,010,819.78 |
 | Circulating Units                          | 8    | 82,734       |
-| NAVPS                                      | 9    | 19.46  |
-| High Water Mark (NAVPS)                    | 10   | 17.99  |
-| High Water Mark (AUM)                      | 11   | 1,488,609.42   |
-| Chargeable Capital Appreciation            | 12   | 155,857.03    |
+| NAVPS                                      | 9    | 24.30  |
+| High Water Mark (NAVPS)                    | 10   | 19.46  |
+| High Water Mark (AUM)                      | 11   | 1,610,663.90    |
+| Chargeable Capital Appreciation            | 12   | 504,425.03    |
 | -                                          | -    | -            |
-| Net Capital Appreciation                   | 13   | 122,054.48  |
-| Net Capital Appreciation per Unit          | 14   | 1.47   |
+| Net Capital Appreciation                   | 13   | 400,155.88  |
+| Net Capital Appreciation per Unit          | 14   | 4.83  |
 
-*Note: All values are as of 31/03/2021.*
+*Note: All values are as of 30/04/2021.*
 
 ## Notes to Accounts
 
